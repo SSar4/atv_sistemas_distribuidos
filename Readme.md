@@ -11,9 +11,9 @@
 
 <p align="center">Nesse projeto sera abordado o consumo de uma api rest integrando com a API do Spotify utilizando o fluxo Client Credentials Flow.!</p>
 
-# 👩‍💻 Desenvolvedora
+# 👩‍💻 Desenvolvedoras
 
-* (jus)sara
+* (Jus)sara feat Luz
 <br/><br/>
 
 # 💻 Tecnologias
