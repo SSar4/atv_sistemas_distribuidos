@@ -4,15 +4,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-<h1 align="center">SISTEMAS DISTRIBUIDOS</h1>
-<video src="https://youtu.be/SilbCZ-2ERY" autoplay poster="https://i.imgur.com/vKb2F1B.png">
-  Desculpa, o seu navegador não suporta vídeos incorporados,
-  mas você pode <a href="https://youtu.be/SilbCZ-2ERY">baixá-lo</a>
-  e assistir pelo seu reprodutor de mídia favorito!
-</video>
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/SilbCZ-2ERY)
+[![Watch the video](video)](https://youtu.be/SilbCZ-2ERY)
 
 
 <p align="center">Nesse projeto sera abordado o consumo de uma api rest integrando com a API do Spotify utilizando o fluxo Client Credentials Flow.!</p>
