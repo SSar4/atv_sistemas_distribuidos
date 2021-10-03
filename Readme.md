@@ -7,7 +7,6 @@
 
 
 [![Watch the video](video)](https://youtu.be/SilbCZ-2ERY)
-<iframe width="560" height="315" src="https://youtu.be/SilbCZ-2ERY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align="center">Nesse projeto sera abordado o consumo de uma api rest integrando com a API do Spotify utilizando o fluxo Client Credentials Flow.!</p>
 
